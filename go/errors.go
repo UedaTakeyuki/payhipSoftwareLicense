@@ -20,7 +20,7 @@ var (
 	ErrDisabledLicense = errors.New("license key is disabled")
 )
 
-func confirmResponse(resp *resty.Response, err error, payhipResult PayhipResponse) (result error) {
+func ConfirmResponse(resp *resty.Response, err error, payhipResult PayhipResponse) (result error) {
 	if err != nil {
 		log.Printf("Request Error: %v", err)
 		return

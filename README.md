@@ -1,4 +1,4 @@
-# Payhip Software License handler
+# Payhip Software License SDK
 
 ## In Go lang
 ### How to use 

@@ -34,4 +34,5 @@ func verifyLicesne(key string) bool {
 - [Verify](go/verify.go#L16)
 - [SetProcuctSecret](go/vers.go#L26)
 
-### [PayhipResponse struct](go/vers.go#L13)
+### structs
+- [PayhipResponse struct](go/vers.go#L13)

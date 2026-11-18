@@ -28,11 +28,11 @@ func verifyLicesne(key string) bool {
 ```
 
 ### functions
-- [Decrease]()
-- [Disable]
-- [Enable]
-- [Usage]
-- [Verify]
-- [SetProcuctSecret]
+- [Decrease](go/decrease.go#L17)
+- [Disable](go/disable.go#L17)
+- [Enable](go/enable.go#L17)
+- [Usage](go/usage.go#L17)
+- [Verify](go/verify.go#L16)
+- [SetProcuctSecret](go/vers.go#L26)
 
 ### [PayhipResponse struct](go/vers.go#L13)

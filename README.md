@@ -28,4 +28,11 @@ func verifyLicesne(key string) bool {
 ```
 
 ### functions
-### [PayhipResponse struct](https://github.com/UedaTakeyuki/payhipSoftwareLicense/blob/a52658ab354c84992b7ab88ad5f9d3b324588d39/go/vers.go#L13)
+- [Decrease]()
+- [Disable]
+- [Enable]
+- [Usage]
+- [Verify]
+- [SetProcuctSecret]
+
+### [PayhipResponse struct](go/vers.go#L13)

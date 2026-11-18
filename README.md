@@ -20,9 +20,8 @@ func verifyLicesne(key string) bool {
   // use handler function
   result, err := license.Verify(key)
   if !result.Data.Enabled {
-		return false
-	}
-
+    return false
+  }
   return true
 }
 ```

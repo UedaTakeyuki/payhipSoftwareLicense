@@ -2,14 +2,14 @@
 
 ## In Go lang
 ### How to use 
-- Import rep ***github.com/UedaTakeyuki/payhipSoftwareLicense/go***
+- Import sdk ***github.com/UedaTakeyuki/payhipSoftwareLicense/go***
 - Set ```payhip product key``` with function ***SetProcuctSecret***.
 - Use handler functions like ***Verify***
 
 Fx:
 ```
 import(
-  // import rep
+  // import sdk
 	license "github.com/UedaTakeyuki/payhipSoftwareLicense/go"
 )
 
